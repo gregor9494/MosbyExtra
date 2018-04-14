@@ -18,7 +18,6 @@ public abstract class BaseActivity<V extends MvpView, P extends MvpPresenter<V>>
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        AndroidInjection.inject(this);
         setContentView(getLayout());
         super.onCreate(savedInstanceState);
         setupViews();
