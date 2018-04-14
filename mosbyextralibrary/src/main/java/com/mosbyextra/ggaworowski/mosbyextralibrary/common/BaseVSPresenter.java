@@ -1,9 +1,5 @@
 package com.mosbyextra.ggaworowski.mosbyextralibrary.common;
 
-import com.hannesdorfmann.mosby3.mvp.MvpView;
-
-import java.util.concurrent.TimeUnit;
-
 import io.reactivex.Observable;
 import io.reactivex.Single;
 import io.reactivex.functions.Consumer;

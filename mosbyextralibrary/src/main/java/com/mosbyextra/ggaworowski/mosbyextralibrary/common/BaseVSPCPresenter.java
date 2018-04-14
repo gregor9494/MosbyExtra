@@ -1,9 +1,5 @@
 package com.mosbyextra.ggaworowski.mosbyextralibrary.common;
 
-import com.hannesdorfmann.mosby3.mvp.MvpView;
-
-import ggaworowski.worktime.screens.common.PartialChanges;
-
 /**
  * Created by GG on 07.03.2018.
  */
