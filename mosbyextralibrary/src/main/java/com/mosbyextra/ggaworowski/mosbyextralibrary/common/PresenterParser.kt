@@ -1,10 +1,10 @@
 package com.mosbyextra.ggaworowski.mosbyextralibrary.common
 
 import com.hannesdorfmann.mosby3.mvp.MvpView
-import com.mosbyextra.ggaworowski.mosbyextralibrary.common.BasePresenter
-import ggaworowski.worktime.screens.common.annotations.AddDisposableOnAttach
-import ggaworowski.worktime.screens.common.annotations.RunOnAttach
-import ggaworowski.worktime.screens.common.annotations.SubscribeOnAttach
+import com.mosbyextra.ggaworowski.mosbyextralibrary.common.annotations.AddDisposableOnAttach
+import com.mosbyextra.ggaworowski.mosbyextralibrary.common.annotations.RunOnAttach
+import com.mosbyextra.ggaworowski.mosbyextralibrary.common.annotations.SubscribeOnAttach
+
 import io.reactivex.Observable
 import io.reactivex.Single
 import io.reactivex.disposables.Disposable

@@ -1,4 +1,4 @@
-package ggaworowski.worktime.screens.common.annotations
+package com.mosbyextra.ggaworowski.mosbyextralibrary.common.annotations
 
 /**
  * Created by GG on 07.03.2018.
