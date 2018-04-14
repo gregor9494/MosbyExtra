@@ -3,7 +3,7 @@ package com.mosbyextra.ggaworowski.mosbyextralibrary.common;
 import com.hannesdorfmann.mosby3.mvp.MvpBasePresenter;
 import com.hannesdorfmann.mosby3.mvp.MvpView;
 
-import ggaworowski.worktime.screens.common.PresenterParser;
+
 import io.reactivex.disposables.CompositeDisposable;
 import io.reactivex.disposables.Disposable;
 
@@ -26,7 +26,7 @@ public abstract class BasePresenter<V extends MvpView> extends MvpBasePresenter<
      *
      * @param disposable
      */
-    public void addSubscription(Disposable disposable) {
+    protected void addSubscription(Disposable disposable) {
         this.disposable.add(disposable);
     }
 

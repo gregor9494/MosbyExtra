@@ -1,4 +1,4 @@
-package ggaworowski.worktime.screens.common
+package com.mosbyextra.ggaworowski.mosbyextralibrary.common
 
 import com.hannesdorfmann.mosby3.mvp.MvpView
 import com.mosbyextra.ggaworowski.mosbyextralibrary.common.BasePresenter
