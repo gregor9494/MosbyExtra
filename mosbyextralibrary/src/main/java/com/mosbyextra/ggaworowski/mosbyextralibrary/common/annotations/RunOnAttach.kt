@@ -9,5 +9,4 @@ package com.mosbyextra.ggaworowski.mosbyextralibrary.common.annotations
 @Target(AnnotationTarget.FUNCTION)
 @Retention(AnnotationRetention.RUNTIME)
 @MustBeDocumented
-@Deprecated(message = "")
 annotation class RunOnAttach()
